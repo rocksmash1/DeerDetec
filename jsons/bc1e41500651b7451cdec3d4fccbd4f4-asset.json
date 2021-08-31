@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bc1e41500651b7451cdec3d4fccbd4f4",
+        "name": "North%20Dakota%20deer%20hunters....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/North%20Dakota%20deer%20hunters....jpg",
+        "size": {
+            "width": 1621,
+            "height": 1216
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bQ1Yje_C_",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 706.7012987012987,
+                "width": 1174.9618506493507,
+                "left": 95.22717126623377,
+                "top": 271.09956709956714
+            },
+            "points": [
+                {
+                    "x": 95.22717126623377,
+                    "y": 271.09956709956714
+                },
+                {
+                    "x": 1270.1890219155844,
+                    "y": 271.09956709956714
+                },
+                {
+                    "x": 1270.1890219155844,
+                    "y": 977.8008658008658
+                },
+                {
+                    "x": 95.22717126623377,
+                    "y": 977.8008658008658
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

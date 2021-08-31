@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "21dd7e443cc7f06cdd6b963905003fc5",
+        "name": "Gun%20season%20for%20deer%20in%20North%20Carolina....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Gun%20season%20for%20deer%20in%20North%20Carolina....jpg",
+        "size": {
+            "width": 864,
+            "height": 488
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vFo_hUdx9",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 225.5512195121951,
+                "width": 202.45348035837353,
+                "left": 126.83115093039284,
+                "top": 52.2405487804878
+            },
+            "points": [
+                {
+                    "x": 126.83115093039284,
+                    "y": 52.2405487804878
+                },
+                {
+                    "x": 329.2846312887664,
+                    "y": 52.2405487804878
+                },
+                {
+                    "x": 329.2846312887664,
+                    "y": 277.7917682926829
+                },
+                {
+                    "x": 126.83115093039284,
+                    "y": 277.7917682926829
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ca134094d4510f5e2b19c680e5e5b519",
+        "name": "National%20Key%20Deer%20Refuge....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/National%20Key%20Deer%20Refuge....jpg",
+        "size": {
+            "width": 512,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "agMU0nDgz",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 434.4155844155844,
+                "width": 421.8763082778307,
+                "left": 77.04662226450999,
+                "top": 0.487012987012987
+            },
+            "points": [
+                {
+                    "x": 77.04662226450999,
+                    "y": 0.487012987012987
+                },
+                {
+                    "x": 498.9229305423406,
+                    "y": 0.487012987012987
+                },
+                {
+                    "x": 498.9229305423406,
+                    "y": 434.9025974025974
+                },
+                {
+                    "x": 77.04662226450999,
+                    "y": 434.9025974025974
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

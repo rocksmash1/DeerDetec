@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "34e436b984e53ad98d56a6a41743f5b7",
+        "name": "Unsolved%20Mystery%20of%20Bullwinkle%20Deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Unsolved%20Mystery%20of%20Bullwinkle%20Deer....jpg",
+        "size": {
+            "width": 850,
+            "height": 733
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "610rnILgh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 610.0400432900433,
+                "width": 706.1507936507936,
+                "left": 143.84920634920636,
+                "top": 80.91558441558442
+            },
+            "points": [
+                {
+                    "x": 143.84920634920636,
+                    "y": 80.91558441558442
+                },
+                {
+                    "x": 850,
+                    "y": 80.91558441558442
+                },
+                {
+                    "x": 850,
+                    "y": 690.9556277056276
+                },
+                {
+                    "x": 143.84920634920636,
+                    "y": 690.9556277056276
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "370febd9575da3febb5f71c14b3e7eb6",
+        "name": "tip-toe%20ballet%20of%20the%20walking%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/tip-toe%20ballet%20of%20the%20walking%20deer....jpg",
+        "size": {
+            "width": 1400,
+            "height": 934
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NluslmMxh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 807.6471861471862,
+                "width": 825.8483754512635,
+                "left": 506.4417870036101,
+                "top": 69.74675324675324
+            },
+            "points": [
+                {
+                    "x": 506.4417870036101,
+                    "y": 69.74675324675324
+                },
+                {
+                    "x": 1332.2901624548736,
+                    "y": 69.74675324675324
+                },
+                {
+                    "x": 1332.2901624548736,
+                    "y": 877.3939393939394
+                },
+                {
+                    "x": 506.4417870036101,
+                    "y": 877.3939393939394
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

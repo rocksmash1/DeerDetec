@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "deb2d1f877d6afb52100d152eb66a6c3",
+        "name": "You_ve%20probably%20never%20seen%20a%20deer%20that....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/You_ve%20probably%20never%20seen%20a%20deer%20that....jpg",
+        "size": {
+            "width": 1885,
+            "height": 1257
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zlCEDPzE6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 466.6136363636364,
+                "width": 520.8910533910533,
+                "left": 1059.9087414321789,
+                "top": 46.253246753246756
+            },
+            "points": [
+                {
+                    "x": 1059.9087414321789,
+                    "y": 46.253246753246756
+                },
+                {
+                    "x": 1580.799794823232,
+                    "y": 46.253246753246756
+                },
+                {
+                    "x": 1580.799794823232,
+                    "y": 512.8668831168832
+                },
+                {
+                    "x": 1059.9087414321789,
+                    "y": 512.8668831168832
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

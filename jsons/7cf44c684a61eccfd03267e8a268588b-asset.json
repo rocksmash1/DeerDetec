@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7cf44c684a61eccfd03267e8a268588b",
+        "name": "Study%20finds%20%E2%80%9Cneonics%E2%80%9D%20in%20deer%20across....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Study%20finds%20%E2%80%9Cneonics%E2%80%9D%20in%20deer%20across....jpg",
+        "size": {
+            "width": 480,
+            "height": 460
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hX_H4IIzC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 389.80519480519484,
+                "width": 424.73029045643153,
+                "left": 19.714730290456433,
+                "top": 4.48051948051948
+            },
+            "points": [
+                {
+                    "x": 19.714730290456433,
+                    "y": 4.48051948051948
+                },
+                {
+                    "x": 444.44502074688796,
+                    "y": 4.48051948051948
+                },
+                {
+                    "x": 444.44502074688796,
+                    "y": 394.2857142857143
+                },
+                {
+                    "x": 19.714730290456433,
+                    "y": 394.2857142857143
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

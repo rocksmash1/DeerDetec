@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "36dda3799076a529513c6e97feda888c",
+        "name": "moon%20phase_%20weather....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/moon%20phase_%20weather....jpg",
+        "size": {
+            "width": 992,
+            "height": 793
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NG_3IE8iu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 301.34429112554113,
+                "width": 404.6626297577855,
+                "left": 165.9948096885813,
+                "top": 12.015151515151516
+            },
+            "points": [
+                {
+                    "x": 165.9948096885813,
+                    "y": 12.015151515151516
+                },
+                {
+                    "x": 570.6574394463668,
+                    "y": 12.015151515151516
+                },
+                {
+                    "x": 570.6574394463668,
+                    "y": 313.35944264069263
+                },
+                {
+                    "x": 165.9948096885813,
+                    "y": 313.35944264069263
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

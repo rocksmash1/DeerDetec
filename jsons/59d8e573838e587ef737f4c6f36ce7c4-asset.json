@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "59d8e573838e587ef737f4c6f36ce7c4",
+        "name": "A%20troubling%20industry%20is%20born.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/A%20troubling%20industry%20is%20born.jpg",
+        "size": {
+            "width": 384,
+            "height": 217
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gB0y0t8r1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 66.95243902439024,
+                "width": 61.39765678842178,
+                "left": 206.68780151619572,
+                "top": 105.32025533536586
+            },
+            "points": [
+                {
+                    "x": 206.68780151619572,
+                    "y": 105.32025533536586
+                },
+                {
+                    "x": 268.0854583046175,
+                    "y": 105.32025533536586
+                },
+                {
+                    "x": 268.0854583046175,
+                    "y": 172.27269435975612
+                },
+                {
+                    "x": 206.68780151619572,
+                    "y": 172.27269435975612
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

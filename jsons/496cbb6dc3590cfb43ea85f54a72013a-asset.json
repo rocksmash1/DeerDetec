@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "496cbb6dc3590cfb43ea85f54a72013a",
+        "name": "Where%20to%20See%20Florida%20Keys%20Deer%20_%20VISIT....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Where%20to%20See%20Florida%20Keys%20Deer%20_%20VISIT....jpg",
+        "size": {
+            "width": 1024,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uL4Z27jT_",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 353.81355932203394,
+                "width": 508.118538938663,
+                "left": 178.54720882150238,
+                "top": 73.62288135593221
+            },
+            "points": [
+                {
+                    "x": 178.54720882150238,
+                    "y": 73.62288135593221
+                },
+                {
+                    "x": 686.6657477601653,
+                    "y": 73.62288135593221
+                },
+                {
+                    "x": 686.6657477601653,
+                    "y": 427.4364406779661
+                },
+                {
+                    "x": 178.54720882150238,
+                    "y": 427.4364406779661
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ad267a547d64dd986ef1757cd3cdf64e",
+        "name": "Barking%20Deer%20or%20Indian%20Muntjac_%20The....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Barking%20Deer%20or%20Indian%20Muntjac_%20The....jpg",
+        "size": {
+            "width": 1343,
+            "height": 1221
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wo-QcqFRG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 746.6071428571429,
+                "width": 1035.0088582677165,
+                "left": 307.9911417322835,
+                "top": 95.14285714285714
+            },
+            "points": [
+                {
+                    "x": 307.9911417322835,
+                    "y": 95.14285714285714
+                },
+                {
+                    "x": 1343.0000000000002,
+                    "y": 95.14285714285714
+                },
+                {
+                    "x": 1343.0000000000002,
+                    "y": 841.75
+                },
+                {
+                    "x": 307.9911417322835,
+                    "y": 841.75
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

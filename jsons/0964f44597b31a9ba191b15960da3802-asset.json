@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0964f44597b31a9ba191b15960da3802",
+        "name": "Rare%20white%20deer%20roams%20Kensington%20Metropark.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Rare%20white%20deer%20roams%20Kensington%20Metropark.jpg",
+        "size": {
+            "width": 1541,
+            "height": 2054
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JQswKQQ3W",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 1311.5367965367966,
+                "width": 1216.3448773448774,
+                "left": 169.27651515151516,
+                "top": 626.8701298701299
+            },
+            "points": [
+                {
+                    "x": 169.27651515151516,
+                    "y": 626.8701298701299
+                },
+                {
+                    "x": 1385.6213924963924,
+                    "y": 626.8701298701299
+                },
+                {
+                    "x": 1385.6213924963924,
+                    "y": 1938.4069264069265
+                },
+                {
+                    "x": 169.27651515151516,
+                    "y": 1938.4069264069265
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "937f8bd03890bded778464418b59fcb9",
+        "name": "What%20Deer%20Can%20Hear%20%E2%80%94%20And%20How%20to%20Beat.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/What%20Deer%20Can%20Hear%20%E2%80%94%20And%20How%20to%20Beat.jpg",
+        "size": {
+            "width": 770,
+            "height": 513
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dFSMDoILf",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 479.6883116883117,
+                "width": 697.8558714852198,
+                "left": 28.28688266041817,
+                "top": 6.662337662337663
+            },
+            "points": [
+                {
+                    "x": 28.28688266041817,
+                    "y": 6.662337662337663
+                },
+                {
+                    "x": 726.142754145638,
+                    "y": 6.662337662337663
+                },
+                {
+                    "x": 726.142754145638,
+                    "y": 486.3506493506494
+                },
+                {
+                    "x": 28.28688266041817,
+                    "y": 486.3506493506494
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

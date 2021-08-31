@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "71deea569ba94e7b617ba7307bc9d443",
+        "name": "These%20five%20Indiana%20counties%20see%20the....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/These%20five%20Indiana%20counties%20see%20the....jpg",
+        "size": {
+            "width": 2060,
+            "height": 1164
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "d5YtvyGDZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 752.3414634146341,
+                "width": 795.0379048931771,
+                "left": 274.0041350792557,
+                "top": 63.81150914634146
+            },
+            "points": [
+                {
+                    "x": 274.0041350792557,
+                    "y": 63.81150914634146
+                },
+                {
+                    "x": 1069.0420399724328,
+                    "y": 63.81150914634146
+                },
+                {
+                    "x": 1069.0420399724328,
+                    "y": 816.1529725609755
+                },
+                {
+                    "x": 274.0041350792557,
+                    "y": 816.1529725609755
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

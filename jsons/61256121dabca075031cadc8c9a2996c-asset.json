@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "61256121dabca075031cadc8c9a2996c",
+        "name": "White-tailed%20deer%20-%20Wikipedia.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-tailed%20deer%20-%20Wikipedia.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1151
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xcGIWf6Kn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 918.0595238095239,
+                "width": 974.4548286604361,
+                "left": 98.65654205607476,
+                "top": 12.456709956709958
+            },
+            "points": [
+                {
+                    "x": 98.65654205607476,
+                    "y": 12.456709956709958
+                },
+                {
+                    "x": 1073.111370716511,
+                    "y": 12.456709956709958
+                },
+                {
+                    "x": 1073.111370716511,
+                    "y": 930.5162337662338
+                },
+                {
+                    "x": 98.65654205607476,
+                    "y": 930.5162337662338
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

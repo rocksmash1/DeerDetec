@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bad794bf076a7ff8fc78f48d0935efb2",
+        "name": "Arkansas%20hunter%20dies_%20after%20deer%20he....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Arkansas%20hunter%20dies_%20after%20deer%20he....jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JCRWewAaU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 521.4705882352941,
+                "width": 408.8766368022054,
+                "left": 543.8456237077878,
+                "top": 67.62408088235294
+            },
+            "points": [
+                {
+                    "x": 543.8456237077878,
+                    "y": 67.62408088235294
+                },
+                {
+                    "x": 952.7222605099931,
+                    "y": 67.62408088235294
+                },
+                {
+                    "x": 952.7222605099931,
+                    "y": 589.0946691176471
+                },
+                {
+                    "x": 543.8456237077878,
+                    "y": 589.0946691176471
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

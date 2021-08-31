@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "23719dbeb590692e47313df2e14c827f",
+        "name": "File_White-tailed%20deer.jpg%20-%20Wikimedia%20....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/File_White-tailed%20deer.jpg%20-%20Wikimedia%20....jpg",
+        "size": {
+            "width": 1279,
+            "height": 972
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PI7O2SU0j",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 424.987012987013,
+                "width": 327.11266447368416,
+                "left": 248.6707056949013,
+                "top": 16.83116883116883
+            },
+            "points": [
+                {
+                    "x": 248.6707056949013,
+                    "y": 16.83116883116883
+                },
+                {
+                    "x": 575.7833701685855,
+                    "y": 16.83116883116883
+                },
+                {
+                    "x": 575.7833701685855,
+                    "y": 441.8181818181818
+                },
+                {
+                    "x": 248.6707056949013,
+                    "y": 441.8181818181818
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

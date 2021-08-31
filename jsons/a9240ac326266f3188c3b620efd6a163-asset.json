@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a9240ac326266f3188c3b620efd6a163",
+        "name": "Deer%20returned%20to%20wild%20after%20stroll....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20returned%20to%20wild%20after%20stroll....jpg",
+        "size": {
+            "width": 748,
+            "height": 607
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CnzxE56bb",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 292.3322510822511,
+                "width": 283.8143656716418,
+                "left": 254.69309701492537,
+                "top": 305.4707792207792
+            },
+            "points": [
+                {
+                    "x": 254.69309701492537,
+                    "y": 305.4707792207792
+                },
+                {
+                    "x": 538.5074626865672,
+                    "y": 305.4707792207792
+                },
+                {
+                    "x": 538.5074626865672,
+                    "y": 597.8030303030303
+                },
+                {
+                    "x": 254.69309701492537,
+                    "y": 597.8030303030303
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

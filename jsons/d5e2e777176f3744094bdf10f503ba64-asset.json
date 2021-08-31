@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d5e2e777176f3744094bdf10f503ba64",
+        "name": "Fear__%20Wolves%20Reduce%20Car%20Collisions....png",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Fear__%20Wolves%20Reduce%20Car%20Collisions....png",
+        "size": {
+            "width": 1600,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AnTil5OOI",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 335.06493506493507,
+                "width": 393.5064935064935,
+                "left": 443.5064935064935,
+                "top": 738.961038961039
+            },
+            "points": [
+                {
+                    "x": 443.5064935064935,
+                    "y": 738.961038961039
+                },
+                {
+                    "x": 837.012987012987,
+                    "y": 738.961038961039
+                },
+                {
+                    "x": 837.012987012987,
+                    "y": 1074.025974025974
+                },
+                {
+                    "x": 443.5064935064935,
+                    "y": 1074.025974025974
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

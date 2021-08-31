@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ca48d6270f4f68c660bd0576ae873fbb",
+        "name": "Australia%20deer%20attack%20kills%20man%20and....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Australia%20deer%20attack%20kills%20man%20and....jpg",
+        "size": {
+            "width": 976,
+            "height": 549
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KIT90SGQj",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 277.8639705882353,
+                "width": 403.5837353549276,
+                "left": 197.08339076498964,
+                "top": 168.26160386029414
+            },
+            "points": [
+                {
+                    "x": 197.08339076498964,
+                    "y": 168.26160386029414
+                },
+                {
+                    "x": 600.6671261199173,
+                    "y": 168.26160386029414
+                },
+                {
+                    "x": 600.6671261199173,
+                    "y": 446.12557444852945
+                },
+                {
+                    "x": 197.08339076498964,
+                    "y": 446.12557444852945
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

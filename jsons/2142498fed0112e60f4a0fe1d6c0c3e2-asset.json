@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2142498fed0112e60f4a0fe1d6c0c3e2",
+        "name": "whitetail%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/whitetail%20deer....jpg",
+        "size": {
+            "width": 820,
+            "height": 461
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Uju3zS3zd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 196.03799019607843,
+                "width": 194.96898690558237,
+                "left": 340.77188146106135,
+                "top": 29.871783088235293
+            },
+            "points": [
+                {
+                    "x": 340.77188146106135,
+                    "y": 29.871783088235293
+                },
+                {
+                    "x": 535.7408683666437,
+                    "y": 29.871783088235293
+                },
+                {
+                    "x": 535.7408683666437,
+                    "y": 225.90977328431373
+                },
+                {
+                    "x": 340.77188146106135,
+                    "y": 225.90977328431373
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

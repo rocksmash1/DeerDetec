@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ffa52be686d3bc9ea87d92111ba8518",
+        "name": "A%20woman%20lured%20a%20group%20of%20deer%20into%20her_yythk....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/A%20woman%20lured%20a%20group%20of%20deer%20into%20her_yythk....jpg",
+        "size": {
+            "width": 1100,
+            "height": 619
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vVIXsGBTd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 226.53733170134637,
+                "width": 210.7512060647829,
+                "left": 389.66230186078565,
+                "top": 124.45584072827417
+            },
+            "points": [
+                {
+                    "x": 389.66230186078565,
+                    "y": 124.45584072827417
+                },
+                {
+                    "x": 600.4135079255685,
+                    "y": 124.45584072827417
+                },
+                {
+                    "x": 600.4135079255685,
+                    "y": 350.9931724296206
+                },
+                {
+                    "x": 389.66230186078565,
+                    "y": 350.9931724296206
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ad57ecdfe5584a4cbfc857d8a4bed96",
+        "name": "Z%20(3).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Z%20(3).jpg",
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FPYWGFXlB",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 26.83982683982684,
+                "width": 29.004329004329005,
+                "left": 37.5,
+                "top": 22.51082251082251
+            },
+            "points": [
+                {
+                    "x": 37.5,
+                    "y": 22.51082251082251
+                },
+                {
+                    "x": 66.50432900432901,
+                    "y": 22.51082251082251
+                },
+                {
+                    "x": 66.50432900432901,
+                    "y": 49.35064935064935
+                },
+                {
+                    "x": 37.5,
+                    "y": 49.35064935064935
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

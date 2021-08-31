@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bc129e4f984d90184ff5aff6090cc780",
+        "name": "The%20Best%20Parks%20In%20London%20To%20See%20Deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/The%20Best%20Parks%20In%20London%20To%20See%20Deer....jpg",
+        "size": {
+            "width": 1600,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fvc5EsXqg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 175.36764705882354,
+                "width": 262.4396967608546,
+                "left": 712.3363197794625,
+                "top": 210.7651654411765
+            },
+            "points": [
+                {
+                    "x": 712.3363197794625,
+                    "y": 210.7651654411765
+                },
+                {
+                    "x": 974.7760165403171,
+                    "y": 210.7651654411765
+                },
+                {
+                    "x": 974.7760165403171,
+                    "y": 386.1328125
+                },
+                {
+                    "x": 712.3363197794625,
+                    "y": 386.1328125
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

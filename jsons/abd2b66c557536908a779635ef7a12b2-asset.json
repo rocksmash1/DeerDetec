@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "abd2b66c557536908a779635ef7a12b2",
+        "name": "Deer%20Aging%20_%20Oklahoma%20Department%20of....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Aging%20_%20Oklahoma%20Department%20of....jpg",
+        "size": {
+            "width": 283,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FokYVrFrs",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 288.1385281385281,
+                "width": 266.0269277845777,
+                "left": 14.580821603427173,
+                "top": 6.926406926406926
+            },
+            "points": [
+                {
+                    "x": 14.580821603427173,
+                    "y": 6.926406926406926
+                },
+                {
+                    "x": 280.6077493880049,
+                    "y": 6.926406926406926
+                },
+                {
+                    "x": 280.6077493880049,
+                    "y": 295.06493506493507
+                },
+                {
+                    "x": 14.580821603427173,
+                    "y": 295.06493506493507
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

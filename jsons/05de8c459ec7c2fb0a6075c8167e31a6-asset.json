@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "05de8c459ec7c2fb0a6075c8167e31a6",
+        "name": "02-07-20-dont-feed-deer-safety.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/02-07-20-dont-feed-deer-safety.jpg",
+        "size": {
+            "width": 600,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4_RkhGKwY",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 599.025974025974,
+                "width": 378.8961038961039,
+                "left": 162.17532467532467,
+                "top": 167.53246753246754
+            },
+            "points": [
+                {
+                    "x": 162.17532467532467,
+                    "y": 167.53246753246754
+                },
+                {
+                    "x": 541.0714285714286,
+                    "y": 167.53246753246754
+                },
+                {
+                    "x": 541.0714285714286,
+                    "y": 766.5584415584416
+                },
+                {
+                    "x": 162.17532467532467,
+                    "y": 766.5584415584416
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

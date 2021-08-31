@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e1eeacbc6787fa77748d3b3d755ae3d2",
+        "name": "2020%20Bow%20Bucks_%20Archers%20share%20photos%20of....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/2020%20Bow%20Bucks_%20Archers%20share%20photos%20of....jpg",
+        "size": {
+            "width": 1280,
+            "height": 1127
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sMCcCp0ih",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 593.9924242424242,
+                "width": 352.6406101048618,
+                "left": 401.7349857006673,
+                "top": 401.28030303030306
+            },
+            "points": [
+                {
+                    "x": 401.7349857006673,
+                    "y": 401.28030303030306
+                },
+                {
+                    "x": 754.3755958055291,
+                    "y": 401.28030303030306
+                },
+                {
+                    "x": 754.3755958055291,
+                    "y": 995.2727272727273
+                },
+                {
+                    "x": 401.7349857006673,
+                    "y": 995.2727272727273
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

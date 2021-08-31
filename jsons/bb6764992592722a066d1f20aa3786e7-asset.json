@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "bb6764992592722a066d1f20aa3786e7",
+        "name": "4-year-old%20Virginia%20boy%20befriends%20baby....jpeg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/4-year-old%20Virginia%20boy%20befriends%20baby....jpeg",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6Jzh0WGp1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 229.1360294117647,
+                "width": 253.89386629910408,
+                "left": 680.6340454858719,
+                "top": 221.7687270220588
+            },
+            "points": [
+                {
+                    "x": 680.6340454858719,
+                    "y": 221.7687270220588
+                },
+                {
+                    "x": 934.5279117849759,
+                    "y": 221.7687270220588
+                },
+                {
+                    "x": 934.5279117849759,
+                    "y": 450.9047564338235
+                },
+                {
+                    "x": 680.6340454858719,
+                    "y": 450.9047564338235
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

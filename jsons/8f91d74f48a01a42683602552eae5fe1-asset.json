@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8f91d74f48a01a42683602552eae5fe1",
+        "name": "Deer%20Hunting....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Hunting....jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qZDF5G8NA",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 387.35294117647055,
+                "width": 392.5568573397657,
+                "left": 658.9662301860786,
+                "top": 54.78860294117647
+            },
+            "points": [
+                {
+                    "x": 658.9662301860786,
+                    "y": 54.78860294117647
+                },
+                {
+                    "x": 1051.5230875258442,
+                    "y": 54.78860294117647
+                },
+                {
+                    "x": 1051.5230875258442,
+                    "y": 442.1415441176471
+                },
+                {
+                    "x": 658.9662301860786,
+                    "y": 442.1415441176471
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

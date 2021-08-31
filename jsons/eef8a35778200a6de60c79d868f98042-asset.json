@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "eef8a35778200a6de60c79d868f98042",
+        "name": "White-Tailed%20Deer%20Management%20Consultants.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-Tailed%20Deer%20Management%20Consultants.jpg",
+        "size": {
+            "width": 1200,
+            "height": 540
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2CdHkF3KJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 134.79326186830016,
+                "width": 196.82977257064096,
+                "left": 479.66919365954516,
+                "top": 188.94573124042878
+            },
+            "points": [
+                {
+                    "x": 479.66919365954516,
+                    "y": 188.94573124042878
+                },
+                {
+                    "x": 676.498966230186,
+                    "y": 188.94573124042878
+                },
+                {
+                    "x": 676.498966230186,
+                    "y": 323.73899310872895
+                },
+                {
+                    "x": 479.66919365954516,
+                    "y": 323.73899310872895
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "07d7401f082ac61f33128ada60876bd6",
+        "name": "Ohio%20deer%20hunters%20top%20last%20season_s....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Ohio%20deer%20hunters%20top%20last%20season_s....jpg",
+        "size": {
+            "width": 3464,
+            "height": 2692
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PVrhz4oEs",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 2193.805194805195,
+                "width": 2418.0992430613965,
+                "left": 713.7762825904122,
+                "top": 402.05194805194805
+            },
+            "points": [
+                {
+                    "x": 713.7762825904122,
+                    "y": 402.05194805194805
+                },
+                {
+                    "x": 3131.8755256518084,
+                    "y": 402.05194805194805
+                },
+                {
+                    "x": 3131.8755256518084,
+                    "y": 2595.8571428571427
+                },
+                {
+                    "x": 713.7762825904122,
+                    "y": 2595.8571428571427
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

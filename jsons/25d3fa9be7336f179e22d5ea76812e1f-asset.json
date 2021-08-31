@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "25d3fa9be7336f179e22d5ea76812e1f",
+        "name": "Rough%20Looking%20Deer_%20Are%20They%20Sick_%20_%20WXPR.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Rough%20Looking%20Deer_%20Are%20They%20Sick_%20_%20WXPR.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1920
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jgX2FDq1R",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 739.7402597402597,
+                "width": 1107.5324675324675,
+                "left": 503.89610389610385,
+                "top": 132.98701298701297
+            },
+            "points": [
+                {
+                    "x": 503.89610389610385,
+                    "y": 132.98701298701297
+                },
+                {
+                    "x": 1611.4285714285713,
+                    "y": 132.98701298701297
+                },
+                {
+                    "x": 1611.4285714285713,
+                    "y": 872.7272727272726
+                },
+                {
+                    "x": 503.89610389610385,
+                    "y": 872.7272727272726
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

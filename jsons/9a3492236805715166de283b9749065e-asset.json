@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9a3492236805715166de283b9749065e",
+        "name": "Deer%20Fibroma_%20Wildlife%20Diseases_%20Living....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Fibroma_%20Wildlife%20Diseases_%20Living....jpg",
+        "size": {
+            "width": 350,
+            "height": 263
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Jgpvr0VsI",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 112.71428571428571,
+                "width": 97.88617886178862,
+                "left": 132.983993902439,
+                "top": 25.616883116883116
+            },
+            "points": [
+                {
+                    "x": 132.983993902439,
+                    "y": 25.616883116883116
+                },
+                {
+                    "x": 230.87017276422765,
+                    "y": 25.616883116883116
+                },
+                {
+                    "x": 230.87017276422765,
+                    "y": 138.33116883116884
+                },
+                {
+                    "x": 132.983993902439,
+                    "y": 138.33116883116884
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

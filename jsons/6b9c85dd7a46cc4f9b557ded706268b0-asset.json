@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6b9c85dd7a46cc4f9b557ded706268b0",
+        "name": "White-Tailed%20Deer%20_%20EEK%20Wisconsin.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-Tailed%20Deer%20_%20EEK%20Wisconsin.jpg",
+        "size": {
+            "width": 500,
+            "height": 381
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xleG2NqgA",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 181.42857142857142,
+                "width": 293.4872217642209,
+                "left": 83.18734542456718,
+                "top": 117.1038961038961
+            },
+            "points": [
+                {
+                    "x": 83.18734542456718,
+                    "y": 117.1038961038961
+                },
+                {
+                    "x": 376.67456718878816,
+                    "y": 117.1038961038961
+                },
+                {
+                    "x": 376.67456718878816,
+                    "y": 298.53246753246754
+                },
+                {
+                    "x": 83.18734542456718,
+                    "y": 298.53246753246754
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

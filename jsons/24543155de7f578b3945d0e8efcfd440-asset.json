@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24543155de7f578b3945d0e8efcfd440",
+        "name": "How%20to%20avoid%20hitting%20deer%20on%20the%20road.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/How%20to%20avoid%20hitting%20deer%20on%20the%20road.jpg",
+        "size": {
+            "width": 1300,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fyakaenqW",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 350,
+                "width": 374.500344589938,
+                "left": 309.99310820124055,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 309.99310820124055,
+                    "y": 0
+                },
+                {
+                    "x": 684.4934527911785,
+                    "y": 0
+                },
+                {
+                    "x": 684.4934527911785,
+                    "y": 350
+                },
+                {
+                    "x": 309.99310820124055,
+                    "y": 350
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

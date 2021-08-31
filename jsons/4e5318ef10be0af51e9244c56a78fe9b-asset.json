@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4e5318ef10be0af51e9244c56a78fe9b",
+        "name": "shooting%20deer%20in%20Ashland%20neighborhood.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/shooting%20deer%20in%20Ashland%20neighborhood.jpg",
+        "size": {
+            "width": 640,
+            "height": 612
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aCjDB9M4X",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 247.71428571428572,
+                "width": 178.21946169772258,
+                "left": 228.33333333333334,
+                "top": 323.2207792207792
+            },
+            "points": [
+                {
+                    "x": 228.33333333333334,
+                    "y": 323.2207792207792
+                },
+                {
+                    "x": 406.5527950310559,
+                    "y": 323.2207792207792
+                },
+                {
+                    "x": 406.5527950310559,
+                    "y": 570.9350649350649
+                },
+                {
+                    "x": 228.33333333333334,
+                    "y": 570.9350649350649
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "450a62e83284ce2e1fae911cb692037c",
+        "name": "Michigan%20hunters%20don_t%20need%20more%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Michigan%20hunters%20don_t%20need%20more%20deer....jpg",
+        "size": {
+            "width": 1300,
+            "height": 867
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HJFZECkIJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 522.6396103896104,
+                "width": 560.361010830325,
+                "left": 64.04670577617328,
+                "top": 67.55844155844156
+            },
+            "points": [
+                {
+                    "x": 64.04670577617328,
+                    "y": 67.55844155844156
+                },
+                {
+                    "x": 624.4077166064982,
+                    "y": 67.55844155844156
+                },
+                {
+                    "x": 624.4077166064982,
+                    "y": 590.1980519480519
+                },
+                {
+                    "x": 64.04670577617328,
+                    "y": 590.1980519480519
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1b941b8b2729b44acbffc5b271b98642",
+        "name": "Axis%20Deer%20-%20Facts%20and%20Beyond%20_%20Biology....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Axis%20Deer%20-%20Facts%20and%20Beyond%20_%20Biology....jpg",
+        "size": {
+            "width": 800,
+            "height": 517
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "q4Sc4le_U",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 160.02380952380952,
+                "width": 317.2027972027972,
+                "left": 246.3811188811189,
+                "top": 203.66666666666666
+            },
+            "points": [
+                {
+                    "x": 246.3811188811189,
+                    "y": 203.66666666666666
+                },
+                {
+                    "x": 563.5839160839162,
+                    "y": 203.66666666666666
+                },
+                {
+                    "x": 563.5839160839162,
+                    "y": 363.6904761904762
+                },
+                {
+                    "x": 246.3811188811189,
+                    "y": 363.6904761904762
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

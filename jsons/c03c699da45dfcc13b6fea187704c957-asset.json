@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c03c699da45dfcc13b6fea187704c957",
+        "name": "Invasive%20Deer%20Taking%20over%20Hawaii....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Invasive%20Deer%20Taking%20over%20Hawaii....jpg",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jSjha8HiJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 574.6753246753246,
+                "width": 473.2142857142857,
+                "left": 196.02272727272728,
+                "top": 56.81818181818182
+            },
+            "points": [
+                {
+                    "x": 196.02272727272728,
+                    "y": 56.81818181818182
+                },
+                {
+                    "x": 669.237012987013,
+                    "y": 56.81818181818182
+                },
+                {
+                    "x": 669.237012987013,
+                    "y": 631.4935064935065
+                },
+                {
+                    "x": 196.02272727272728,
+                    "y": 631.4935064935065
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

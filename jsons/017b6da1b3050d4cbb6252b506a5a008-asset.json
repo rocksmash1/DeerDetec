@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "017b6da1b3050d4cbb6252b506a5a008",
+        "name": "vehicle-wildlife%20collisions....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/vehicle-wildlife%20collisions....jpg",
+        "size": {
+            "width": 1024,
+            "height": 683
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UJBi0lcM2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 449.4199134199134,
+                "width": 768.9241877256318,
+                "left": 177.571119133574,
+                "top": 95.3538961038961
+            },
+            "points": [
+                {
+                    "x": 177.571119133574,
+                    "y": 95.3538961038961
+                },
+                {
+                    "x": 946.4953068592057,
+                    "y": 95.3538961038961
+                },
+                {
+                    "x": 946.4953068592057,
+                    "y": 544.7738095238095
+                },
+                {
+                    "x": 177.571119133574,
+                    "y": 544.7738095238095
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

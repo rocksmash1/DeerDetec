@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8314453907f262d58e51f80f046fef69",
+        "name": "Virus%20is%20killing%20deer%20in%20New%20York.%20What%20....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Virus%20is%20killing%20deer%20in%20New%20York.%20What%20....jpg",
+        "size": {
+            "width": 1200,
+            "height": 674
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cMA-xyt-b",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 400.2650306748466,
+                "width": 642.5913163335631,
+                "left": 86.83666436940041,
+                "top": 197.23803680981595
+            },
+            "points": [
+                {
+                    "x": 86.83666436940041,
+                    "y": 197.23803680981595
+                },
+                {
+                    "x": 729.4279807029635,
+                    "y": 197.23803680981595
+                },
+                {
+                    "x": 729.4279807029635,
+                    "y": 597.5030674846626
+                },
+                {
+                    "x": 86.83666436940041,
+                    "y": 597.5030674846626
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

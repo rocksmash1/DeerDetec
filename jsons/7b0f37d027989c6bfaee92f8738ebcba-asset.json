@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7b0f37d027989c6bfaee92f8738ebcba",
+        "name": "Beltrami%20County%20deer%20farm....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Beltrami%20County%20deer%20farm....jpg",
+        "size": {
+            "width": 1140,
+            "height": 712
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M-ItrUMGd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 356,
+                "width": 581.3921433494141,
+                "left": 14.9276361130255,
+                "top": 100.68984547461369
+            },
+            "points": [
+                {
+                    "x": 14.9276361130255,
+                    "y": 100.68984547461369
+                },
+                {
+                    "x": 596.3197794624397,
+                    "y": 100.68984547461369
+                },
+                {
+                    "x": 596.3197794624397,
+                    "y": 456.6898454746137
+                },
+                {
+                    "x": 14.9276361130255,
+                    "y": 456.6898454746137
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "621d3324b3f4dd9a40d07558ab73a755",
+        "name": "Hair%20Loss%20in%20Deer_%20Wildlife%20Diseases....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Hair%20Loss%20in%20Deer_%20Wildlife%20Diseases....jpg",
+        "size": {
+            "width": 350,
+            "height": 467
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "POKhJg380",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 297.1818181818182,
+                "width": 337.3737373737374,
+                "left": 10.9927398989899,
+                "top": 80.36038961038962
+            },
+            "points": [
+                {
+                    "x": 10.9927398989899,
+                    "y": 80.36038961038962
+                },
+                {
+                    "x": 348.3664772727273,
+                    "y": 80.36038961038962
+                },
+                {
+                    "x": 348.3664772727273,
+                    "y": 377.5422077922078
+                },
+                {
+                    "x": 10.9927398989899,
+                    "y": 377.5422077922078
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

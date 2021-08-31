@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2b68e5f2bb63800c423454beb4443bf3",
+        "name": "The%20_vulnerable_%20Chinese%20deer%20hunted....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/The%20_vulnerable_%20Chinese%20deer%20hunted....jpg",
+        "size": {
+            "width": 425,
+            "height": 425
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eAFgbW1Fh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 326.10930735930737,
+                "width": 409.36147186147184,
+                "left": 3.909632034632035,
+                "top": 24.837662337662337
+            },
+            "points": [
+                {
+                    "x": 3.909632034632035,
+                    "y": 24.837662337662337
+                },
+                {
+                    "x": 413.2711038961039,
+                    "y": 24.837662337662337
+                },
+                {
+                    "x": 413.2711038961039,
+                    "y": 350.9469696969697
+                },
+                {
+                    "x": 3.909632034632035,
+                    "y": 350.9469696969697
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

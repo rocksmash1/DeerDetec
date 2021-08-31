@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d3c5d27f71b80318d659244c8973d99e",
+        "name": "Deer%20-%20Mammals%20-%20Animal%20Encyclopedia.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20-%20Mammals%20-%20Animal%20Encyclopedia.jpg",
+        "size": {
+            "width": 1183,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yjv5roZz7",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 431.4935064935065,
+                "width": 533.7800668724279,
+                "left": 123.44215534979423,
+                "top": 207.46753246753246
+            },
+            "points": [
+                {
+                    "x": 123.44215534979423,
+                    "y": 207.46753246753246
+                },
+                {
+                    "x": 657.2222222222222,
+                    "y": 207.46753246753246
+                },
+                {
+                    "x": 657.2222222222222,
+                    "y": 638.961038961039
+                },
+                {
+                    "x": 123.44215534979423,
+                    "y": 638.961038961039
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

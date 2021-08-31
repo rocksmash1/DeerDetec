@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "27e244c3c0a5f3b09c7b2a7ff7b54c69",
+        "name": "Mule%20Deer%20Vs%20Whitetail%20Deer%20Hunting....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Mule%20Deer%20Vs%20Whitetail%20Deer%20Hunting....jpg",
+        "size": {
+            "width": 1555,
+            "height": 995
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jJ4zs1RE1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 569.6482683982684,
+                "width": 636.430055401662,
+                "left": 218.09978791551245,
+                "top": 31.228354978354982
+            },
+            "points": [
+                {
+                    "x": 218.09978791551245,
+                    "y": 31.228354978354982
+                },
+                {
+                    "x": 854.5298433171745,
+                    "y": 31.228354978354982
+                },
+                {
+                    "x": 854.5298433171745,
+                    "y": 600.8766233766235
+                },
+                {
+                    "x": 218.09978791551245,
+                    "y": 600.8766233766235
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

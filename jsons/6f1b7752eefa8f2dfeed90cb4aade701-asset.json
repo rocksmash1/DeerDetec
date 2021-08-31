@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f1b7752eefa8f2dfeed90cb4aade701",
+        "name": "Deer%20Season%20In%20Bladen%20County%20Right....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Season%20In%20Bladen%20County%20Right....jpg",
+        "size": {
+            "width": 1000,
+            "height": 1333
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "afP-BisT6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 888.6666666666667,
+                "width": 813.8528138528139,
+                "left": 119.90440115440116,
+                "top": 83.67316017316018
+            },
+            "points": [
+                {
+                    "x": 119.90440115440116,
+                    "y": 83.67316017316018
+                },
+                {
+                    "x": 933.757215007215,
+                    "y": 83.67316017316018
+                },
+                {
+                    "x": 933.757215007215,
+                    "y": 972.3398268398269
+                },
+                {
+                    "x": 119.90440115440116,
+                    "y": 972.3398268398269
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

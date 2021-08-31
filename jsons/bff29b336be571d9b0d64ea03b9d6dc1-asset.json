@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "bff29b336be571d9b0d64ea03b9d6dc1",
+        "name": "Orono%20man%20bags%20deer%20with%20monster%20rack....jpeg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Orono%20man%20bags%20deer%20with%20monster%20rack....jpeg",
+        "size": {
+            "width": 1200,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-3_xM13N4",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 542.5324675324675,
+                "width": 515.2597402597403,
+                "left": 449.512987012987,
+                "top": 266.8831168831169
+            },
+            "points": [
+                {
+                    "x": 449.512987012987,
+                    "y": 266.8831168831169
+                },
+                {
+                    "x": 964.7727272727273,
+                    "y": 266.8831168831169
+                },
+                {
+                    "x": 964.7727272727273,
+                    "y": 809.4155844155844
+                },
+                {
+                    "x": 449.512987012987,
+                    "y": 809.4155844155844
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5aafc43d334a79d4e6ac4f6e78707762",
+        "name": "TPWD_%20White-tailed%20Deer%20Research%20and....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/TPWD_%20White-tailed%20Deer%20Research%20and....jpg",
+        "size": {
+            "width": 304,
+            "height": 304
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cokYzIoKN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 244.12121212121212,
+                "width": 238.85714285714286,
+                "left": 30.103896103896105,
+                "top": 34.21645021645022
+            },
+            "points": [
+                {
+                    "x": 30.103896103896105,
+                    "y": 34.21645021645022
+                },
+                {
+                    "x": 268.961038961039,
+                    "y": 34.21645021645022
+                },
+                {
+                    "x": 268.961038961039,
+                    "y": 278.3376623376624
+                },
+                {
+                    "x": 30.103896103896105,
+                    "y": 278.3376623376624
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5f7a8680bc797bc19c3985e5ab40a2db",
+        "name": "What%20Is%20White-Tailed%20Deer%20Habitat_.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/What%20Is%20White-Tailed%20Deer%20Habitat_.jpg",
+        "size": {
+            "width": 600,
+            "height": 315
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fIE7GP92F",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 193.0511811023622,
+                "width": 198.48380427291522,
+                "left": 233.2184700206754,
+                "top": 1.1949434055118109
+            },
+            "points": [
+                {
+                    "x": 233.2184700206754,
+                    "y": 1.1949434055118109
+                },
+                {
+                    "x": 431.7022742935906,
+                    "y": 1.1949434055118109
+                },
+                {
+                    "x": 431.7022742935906,
+                    "y": 194.24612450787401
+                },
+                {
+                    "x": 233.2184700206754,
+                    "y": 194.24612450787401
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

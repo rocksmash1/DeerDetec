@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4ccda14efd0974ca62e5e25a028295bb",
+        "name": "Board%20weighs%20Little%20Rock%20deer%20hunt%20amid...%20(1).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Board%20weighs%20Little%20Rock%20deer%20hunt%20amid...%20(1).jpg",
+        "size": {
+            "width": 1000,
+            "height": 856
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HSghHkhbG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 432.6320346320347,
+                "width": 515.291936978684,
+                "left": 319.9577154772938,
+                "top": 105.61038961038962
+            },
+            "points": [
+                {
+                    "x": 319.9577154772938,
+                    "y": 105.61038961038962
+                },
+                {
+                    "x": 835.2496524559778,
+                    "y": 105.61038961038962
+                },
+                {
+                    "x": 835.2496524559778,
+                    "y": 538.2424242424242
+                },
+                {
+                    "x": 319.9577154772938,
+                    "y": 538.2424242424242
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

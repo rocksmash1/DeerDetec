@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e95eddc611fa8d751e0d3306d06b27d2",
+        "name": "California%20Deer%20Association....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/California%20Deer%20Association....jpg",
+        "size": {
+            "width": 2560,
+            "height": 1738
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JToXaA0Mn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 801.2857142857142,
+                "width": 671.5062454077884,
+                "left": 1634.592211609111,
+                "top": 28.214285714285715
+            },
+            "points": [
+                {
+                    "x": 1634.592211609111,
+                    "y": 28.214285714285715
+                },
+                {
+                    "x": 2306.0984570168994,
+                    "y": 28.214285714285715
+                },
+                {
+                    "x": 2306.0984570168994,
+                    "y": 829.5
+                },
+                {
+                    "x": 1634.592211609111,
+                    "y": 829.5
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

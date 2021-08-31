@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "24d0384ed37a9cbcc0665ec15a3902c8",
+        "name": "Record%20-%20Typical%20Whitetail%20Deer....png",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Record%20-%20Typical%20Whitetail%20Deer....png",
+        "size": {
+            "width": 848,
+            "height": 444
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VCfphUDGy",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 107.42171052631579,
+                "width": 102.85871812543073,
+                "left": 129.157822191592,
+                "top": 164.74736842105267
+            },
+            "points": [
+                {
+                    "x": 129.157822191592,
+                    "y": 164.74736842105267
+                },
+                {
+                    "x": 232.0165403170227,
+                    "y": 164.74736842105267
+                },
+                {
+                    "x": 232.0165403170227,
+                    "y": 272.1690789473685
+                },
+                {
+                    "x": 129.157822191592,
+                    "y": 272.1690789473685
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

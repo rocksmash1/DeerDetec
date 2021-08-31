@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b8bb6ba9d6cfd61b9dac51250a10dfe0",
+        "name": "Illegal%20shoot%20earns%20suburban%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Illegal%20shoot%20earns%20suburban%20deer....jpg",
+        "size": {
+            "width": 900,
+            "height": 519
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ypYYV2kVa",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 216.63754480286738,
+                "width": 210.88904203997248,
+                "left": 359.75189524465884,
+                "top": 226.94623655913978
+            },
+            "points": [
+                {
+                    "x": 359.75189524465884,
+                    "y": 226.94623655913978
+                },
+                {
+                    "x": 570.6409372846313,
+                    "y": 226.94623655913978
+                },
+                {
+                    "x": 570.6409372846313,
+                    "y": 443.58378136200713
+                },
+                {
+                    "x": 359.75189524465884,
+                    "y": 443.58378136200713
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

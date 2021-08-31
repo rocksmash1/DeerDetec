@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bcbbd01e25d326564f647f2756f0d6e6",
+        "name": "Coues%20Deer%20_%20Arizona%20State%20Parks%20(1).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Coues%20Deer%20_%20Arizona%20State%20Parks%20(1).jpg",
+        "size": {
+            "width": 1780,
+            "height": 621
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I4HyX1_06",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 204.95454545454547,
+                "width": 177.87732598208135,
+                "left": 390.10337698139216,
+                "top": 13.653409090909092
+            },
+            "points": [
+                {
+                    "x": 390.10337698139216,
+                    "y": 13.653409090909092
+                },
+                {
+                    "x": 567.9807029634735,
+                    "y": 13.653409090909092
+                },
+                {
+                    "x": 567.9807029634735,
+                    "y": 218.60795454545456
+                },
+                {
+                    "x": 390.10337698139216,
+                    "y": 218.60795454545456
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

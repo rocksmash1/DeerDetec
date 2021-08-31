@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3e2d9b76b023fdabf1c415e35af81878",
+        "name": "The%20Great%20Deer%20Comeback%20-%20Country%20Roads....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/The%20Great%20Deer%20Comeback%20-%20Country%20Roads....jpg",
+        "size": {
+            "width": 1680,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v2SxKH6lZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 433.76623376623377,
+                "width": 355.7341576506955,
+                "left": 826.1244204018548,
+                "top": 531.1688311688312
+            },
+            "points": [
+                {
+                    "x": 826.1244204018548,
+                    "y": 531.1688311688312
+                },
+                {
+                    "x": 1181.8585780525502,
+                    "y": 531.1688311688312
+                },
+                {
+                    "x": 1181.8585780525502,
+                    "y": 964.9350649350649
+                },
+                {
+                    "x": 826.1244204018548,
+                    "y": 964.9350649350649
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

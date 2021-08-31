@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c330649effc8e2d7211bfeb56401d05e",
+        "name": "How%20to%20Hunt%20Deer%20in%20Hot%20Weather.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/How%20to%20Hunt%20Deer%20in%20Hot%20Weather.jpg",
+        "size": {
+            "width": 1440,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tHP54I23F",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 802.9870129870128,
+                "width": 558.1168831168831,
+                "left": 148.44155844155844,
+                "top": 187.01298701298697
+            },
+            "points": [
+                {
+                    "x": 148.44155844155844,
+                    "y": 187.01298701298697
+                },
+                {
+                    "x": 706.5584415584415,
+                    "y": 187.01298701298697
+                },
+                {
+                    "x": 706.5584415584415,
+                    "y": 989.9999999999998
+                },
+                {
+                    "x": 148.44155844155844,
+                    "y": 989.9999999999998
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

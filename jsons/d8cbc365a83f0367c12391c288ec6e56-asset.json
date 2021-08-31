@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d8cbc365a83f0367c12391c288ec6e56",
+        "name": "Sense%20of%20Smell%20&%20Scent%20Control.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Sense%20of%20Smell%20&%20Scent%20Control.jpg",
+        "size": {
+            "width": 770,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "t9wDvTh8L",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 214.3867924528302,
+                "width": 301.9503790489318,
+                "left": 85.43762922122674,
+                "top": 38.20754716981132
+            },
+            "points": [
+                {
+                    "x": 85.43762922122674,
+                    "y": 38.20754716981132
+                },
+                {
+                    "x": 387.3880082701585,
+                    "y": 38.20754716981132
+                },
+                {
+                    "x": 387.3880082701585,
+                    "y": 252.5943396226415
+                },
+                {
+                    "x": 85.43762922122674,
+                    "y": 252.5943396226415
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

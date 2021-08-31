@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0ea385529cc3c182206404f07ee303e0",
+        "name": "Deer%20and%20Other%20Ungulates.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20and%20Other%20Ungulates.jpg",
+        "size": {
+            "width": 580,
+            "height": 306
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OejTRu_cn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 154.99738903394257,
+                "width": 175.8787043418332,
+                "left": 100.73053066850447,
+                "top": 36.25885280678851
+            },
+            "points": [
+                {
+                    "x": 100.73053066850447,
+                    "y": 36.25885280678851
+                },
+                {
+                    "x": 276.60923501033767,
+                    "y": 36.25885280678851
+                },
+                {
+                    "x": 276.60923501033767,
+                    "y": 191.25624184073106
+                },
+                {
+                    "x": 100.73053066850447,
+                    "y": 191.25624184073106
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

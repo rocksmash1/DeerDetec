@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a8420c7c1132ec4029e280a157bbc278",
+        "name": "Mule%20Deer%20_%20National%20Wildlife%20Federation.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Mule%20Deer%20_%20National%20Wildlife%20Federation.jpg",
+        "size": {
+            "width": 600,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DlSgcM712",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 235.95041322314052,
+                "width": 272.91523087525843,
+                "left": 166.64369400413509,
+                "top": 11.053719008264464
+            },
+            "points": [
+                {
+                    "x": 166.64369400413509,
+                    "y": 11.053719008264464
+                },
+                {
+                    "x": 439.55892487939354,
+                    "y": 11.053719008264464
+                },
+                {
+                    "x": 439.55892487939354,
+                    "y": 247.00413223140495
+                },
+                {
+                    "x": 166.64369400413509,
+                    "y": 247.00413223140495
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

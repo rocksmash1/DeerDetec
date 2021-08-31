@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4499ab832804e9f9dbf9a8ec26b40cfc",
+        "name": "Deer%20DNA%20Starts%20Spilling%20Its%20Weird....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20DNA%20Starts%20Spilling%20Its%20Weird....jpg",
+        "size": {
+            "width": 2000,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kxWoGhOas",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 808.4415584415584,
+                "width": 1146.1038961038962,
+                "left": 414.77272727272725,
+                "top": 340.9090909090909
+            },
+            "points": [
+                {
+                    "x": 414.77272727272725,
+                    "y": 340.9090909090909
+                },
+                {
+                    "x": 1560.8766233766235,
+                    "y": 340.9090909090909
+                },
+                {
+                    "x": 1560.8766233766235,
+                    "y": 1149.3506493506493
+                },
+                {
+                    "x": 414.77272727272725,
+                    "y": 1149.3506493506493
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

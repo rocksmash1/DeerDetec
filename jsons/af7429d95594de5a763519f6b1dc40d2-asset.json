@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "af7429d95594de5a763519f6b1dc40d2",
+        "name": "White-tailed%20deer%20susceptible%20to%20SARS....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-tailed%20deer%20susceptible%20to%20SARS....jpg",
+        "size": {
+            "width": 1200,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A-6LMZU0y",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 184.41558441558442,
+                "width": 259.7402597402597,
+                "left": 287.012987012987,
+                "top": 193.07359307359306
+            },
+            "points": [
+                {
+                    "x": 287.012987012987,
+                    "y": 193.07359307359306
+                },
+                {
+                    "x": 546.7532467532468,
+                    "y": 193.07359307359306
+                },
+                {
+                    "x": 546.7532467532468,
+                    "y": 377.4891774891775
+                },
+                {
+                    "x": 287.012987012987,
+                    "y": 377.4891774891775
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

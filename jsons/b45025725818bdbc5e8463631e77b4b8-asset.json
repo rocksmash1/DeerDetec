@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b45025725818bdbc5e8463631e77b4b8",
+        "name": "identify%20deer%20browse%20in%20the%20woods....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/identify%20deer%20browse%20in%20the%20woods....jpg",
+        "size": {
+            "width": 655,
+            "height": 655
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V5SGiqYu-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 589.0746753246754,
+                "width": 533.4280303030303,
+                "left": 121.5719696969697,
+                "top": 65.92532467532467
+            },
+            "points": [
+                {
+                    "x": 121.5719696969697,
+                    "y": 65.92532467532467
+                },
+                {
+                    "x": 655,
+                    "y": 65.92532467532467
+                },
+                {
+                    "x": 655,
+                    "y": 655
+                },
+                {
+                    "x": 121.5719696969697,
+                    "y": 655
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

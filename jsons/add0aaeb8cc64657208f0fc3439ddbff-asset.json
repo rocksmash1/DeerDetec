@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "add0aaeb8cc64657208f0fc3439ddbff",
+        "name": "EHD%20infecting%20North%20Dakota%20White%20Tail%20Deer.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/EHD%20infecting%20North%20Dakota%20White%20Tail%20Deer.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ax2Zo_ybV",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 418.2352941176471,
+                "width": 410.1998621640248,
+                "left": 731.7436250861475,
+                "top": 83.5064338235294
+            },
+            "points": [
+                {
+                    "x": 731.7436250861475,
+                    "y": 83.5064338235294
+                },
+                {
+                    "x": 1141.9434872501724,
+                    "y": 83.5064338235294
+                },
+                {
+                    "x": 1141.9434872501724,
+                    "y": 501.74172794117646
+                },
+                {
+                    "x": 731.7436250861475,
+                    "y": 501.74172794117646
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

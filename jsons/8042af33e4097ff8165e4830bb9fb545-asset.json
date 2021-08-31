@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8042af33e4097ff8165e4830bb9fb545",
+        "name": "High%20buck%20harvest%20resulted%20in%20the%20most....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/High%20buck%20harvest%20resulted%20in%20the%20most....jpg",
+        "size": {
+            "width": 1140,
+            "height": 798
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "szm77K8e3",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 735.8181818181819,
+                "width": 919.7727272727273,
+                "left": 129.97727272727272,
+                "top": 62.18181818181818
+            },
+            "points": [
+                {
+                    "x": 129.97727272727272,
+                    "y": 62.18181818181818
+                },
+                {
+                    "x": 1049.75,
+                    "y": 62.18181818181818
+                },
+                {
+                    "x": 1049.75,
+                    "y": 798
+                },
+                {
+                    "x": 129.97727272727272,
+                    "y": 798
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

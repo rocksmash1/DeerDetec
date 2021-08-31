@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2750901c9885e10c60c86d7c53af1a98",
+        "name": "Black%20Deer_%20Have%20You%20Seen%20This%20Rare....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Black%20Deer_%20Have%20You%20Seen%20This%20Rare....jpg",
+        "size": {
+            "width": 2500,
+            "height": 1667
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nRZ5rQSlm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 1288.1363636363637,
+                "width": 975.8297258297258,
+                "left": 521.9606782106782,
+                "top": 200.2564935064935
+            },
+            "points": [
+                {
+                    "x": 521.9606782106782,
+                    "y": 200.2564935064935
+                },
+                {
+                    "x": 1497.790404040404,
+                    "y": 200.2564935064935
+                },
+                {
+                    "x": 1497.790404040404,
+                    "y": 1488.3928571428573
+                },
+                {
+                    "x": 521.9606782106782,
+                    "y": 1488.3928571428573
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

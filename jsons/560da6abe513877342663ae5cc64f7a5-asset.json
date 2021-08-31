@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "560da6abe513877342663ae5cc64f7a5",
+        "name": "t%20touch%20baby%20deer%20that%20you%20find%20in%20the_yythk.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/t%20touch%20baby%20deer%20that%20you%20find%20in%20the_yythk.jpg",
+        "size": {
+            "width": 600,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EKoReP2cu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 627.2727272727273,
+                "width": 481.16883116883116,
+                "left": 53.08441558441558,
+                "top": 170.45454545454544
+            },
+            "points": [
+                {
+                    "x": 53.08441558441558,
+                    "y": 170.45454545454544
+                },
+                {
+                    "x": 534.2532467532468,
+                    "y": 170.45454545454544
+                },
+                {
+                    "x": 534.2532467532468,
+                    "y": 797.7272727272727
+                },
+                {
+                    "x": 53.08441558441558,
+                    "y": 797.7272727272727
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

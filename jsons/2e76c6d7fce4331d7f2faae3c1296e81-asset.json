@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2e76c6d7fce4331d7f2faae3c1296e81",
+        "name": "Tennessee%20deer%20season%20extended%20in%20CWD....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Tennessee%20deer%20season%20extended%20in%20CWD....jpg",
+        "size": {
+            "width": 1015,
+            "height": 571
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "orq6IU14i",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 351.2769607843137,
+                "width": 560.3135768435562,
+                "left": 93.73535492763611,
+                "top": 109.95992264093137
+            },
+            "points": [
+                {
+                    "x": 93.73535492763611,
+                    "y": 109.95992264093137
+                },
+                {
+                    "x": 654.0489317711923,
+                    "y": 109.95992264093137
+                },
+                {
+                    "x": 654.0489317711923,
+                    "y": 461.2368834252451
+                },
+                {
+                    "x": 93.73535492763611,
+                    "y": 461.2368834252451
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

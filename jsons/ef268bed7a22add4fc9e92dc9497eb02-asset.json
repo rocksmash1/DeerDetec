@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ef268bed7a22add4fc9e92dc9497eb02",
+        "name": "white-tailed%20deer%20in%20West%20Virginia....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/white-tailed%20deer%20in%20West%20Virginia....jpg",
+        "size": {
+            "width": 1200,
+            "height": 804
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "56iCnaXAw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 573.4155844155844,
+                "width": 771.8636693255983,
+                "left": 75.76142131979695,
+                "top": 93.97402597402596
+            },
+            "points": [
+                {
+                    "x": 75.76142131979695,
+                    "y": 93.97402597402596
+                },
+                {
+                    "x": 847.6250906453953,
+                    "y": 93.97402597402596
+                },
+                {
+                    "x": 847.6250906453953,
+                    "y": 667.3896103896103
+                },
+                {
+                    "x": 75.76142131979695,
+                    "y": 667.3896103896103
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3c5ff3c1301fa6480959c5ed0087f4bb",
+        "name": "Deer%20definition%20and%20meaning%20_%20Collins....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20definition%20and%20meaning%20_%20Collins....jpg",
+        "size": {
+            "width": 1000,
+            "height": 790
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hAjtIhUy2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 217.16450216450215,
+                "width": 253.84615384615384,
+                "left": 201.12179487179486,
+                "top": 21.374458874458874
+            },
+            "points": [
+                {
+                    "x": 201.12179487179486,
+                    "y": 21.374458874458874
+                },
+                {
+                    "x": 454.9679487179487,
+                    "y": 21.374458874458874
+                },
+                {
+                    "x": 454.9679487179487,
+                    "y": 238.53896103896102
+                },
+                {
+                    "x": 201.12179487179486,
+                    "y": 238.53896103896102
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

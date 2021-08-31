@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c68926e8fd12532c06570b208f23b808",
+        "name": "Hilton%20Head%20Island%20Packet.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Hilton%20Head%20Island%20Packet.jpg",
+        "size": {
+            "width": 1140,
+            "height": 1477
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Qh3F9-y9v",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 1168.4924242424242,
+                "width": 589.9859747545582,
+                "left": 211.20178821879384,
+                "top": 175.83333333333331
+            },
+            "points": [
+                {
+                    "x": 211.20178821879384,
+                    "y": 175.83333333333331
+                },
+                {
+                    "x": 801.187762973352,
+                    "y": 175.83333333333331
+                },
+                {
+                    "x": 801.187762973352,
+                    "y": 1344.3257575757575
+                },
+                {
+                    "x": 211.20178821879384,
+                    "y": 1344.3257575757575
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

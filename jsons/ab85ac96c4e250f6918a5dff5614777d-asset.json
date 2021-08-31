@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ab85ac96c4e250f6918a5dff5614777d",
+        "name": "whitetaileddeernpsnc.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/whitetaileddeernpsnc.jpg",
+        "size": {
+            "width": 1000,
+            "height": 667
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TLD7Jt_Nb",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 288.7445887445887,
+                "width": 283.75451263537906,
+                "left": 229.71570397111915,
+                "top": 35.371212121212125
+            },
+            "points": [
+                {
+                    "x": 229.71570397111915,
+                    "y": 35.371212121212125
+                },
+                {
+                    "x": 513.4702166064982,
+                    "y": 35.371212121212125
+                },
+                {
+                    "x": 513.4702166064982,
+                    "y": 324.11580086580085
+                },
+                {
+                    "x": 229.71570397111915,
+                    "y": 324.11580086580085
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

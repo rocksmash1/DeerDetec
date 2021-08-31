@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "058c1870384b9452b744d4e4bba0839c",
+        "name": "East%20Tennessee%20woman%20attacked%20by....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/East%20Tennessee%20woman%20attacked%20by....jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UL2tqal26",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 337.94117647058823,
+                "width": 280.5237767057202,
+                "left": 622.7980702963473,
+                "top": 2.7297794117647056
+            },
+            "points": [
+                {
+                    "x": 622.7980702963473,
+                    "y": 2.7297794117647056
+                },
+                {
+                    "x": 903.3218470020676,
+                    "y": 2.7297794117647056
+                },
+                {
+                    "x": 903.3218470020676,
+                    "y": 340.6709558823529
+                },
+                {
+                    "x": 622.7980702963473,
+                    "y": 340.6709558823529
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

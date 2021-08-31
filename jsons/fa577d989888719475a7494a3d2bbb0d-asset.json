@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fa577d989888719475a7494a3d2bbb0d",
+        "name": "The%20Best%20Shot%20Placement%20on%20Deer.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/The%20Best%20Shot%20Placement%20on%20Deer.jpg",
+        "size": {
+            "width": 1200,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KDLZucM_M",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 249.35064935064935,
+                "width": 251.94805194805195,
+                "left": 553.6796536796537,
+                "top": 175.75757575757575
+            },
+            "points": [
+                {
+                    "x": 553.6796536796537,
+                    "y": 175.75757575757575
+                },
+                {
+                    "x": 805.6277056277056,
+                    "y": 175.75757575757575
+                },
+                {
+                    "x": 805.6277056277056,
+                    "y": 425.1082251082251
+                },
+                {
+                    "x": 553.6796536796537,
+                    "y": 425.1082251082251
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

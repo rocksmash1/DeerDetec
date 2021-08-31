@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f32b7c4186cdb7659ad483e3ce4209c5",
+        "name": "Sick-looking%20Deer%20%E2%80%93%20Georgia%20Wildlife....png",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Sick-looking%20Deer%20%E2%80%93%20Georgia%20Wildlife....png",
+        "size": {
+            "width": 1270,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sfNzh6Rp_",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 321.3035019455253,
+                "width": 340.4755341144039,
+                "left": 728.2150241212956,
+                "top": 6.661904182879377
+            },
+            "points": [
+                {
+                    "x": 728.2150241212956,
+                    "y": 6.661904182879377
+                },
+                {
+                    "x": 1068.6905582356997,
+                    "y": 6.661904182879377
+                },
+                {
+                    "x": 1068.6905582356997,
+                    "y": 327.96540612840465
+                },
+                {
+                    "x": 728.2150241212956,
+                    "y": 327.96540612840465
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

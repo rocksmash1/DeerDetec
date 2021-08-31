@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "d893a931e38f9babf4db179c9b54280b",
+        "name": "Nevada%20fighting%20to%20keep%20_zombie%20deer....jpeg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Nevada%20fighting%20to%20keep%20_zombie%20deer....jpeg",
+        "size": {
+            "width": 3000,
+            "height": 1992
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u-GVzG0hg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 877.4285714285714,
+                "width": 937.5000000000001,
+                "left": 1841.1570581896553,
+                "top": 989.5324675324675
+            },
+            "points": [
+                {
+                    "x": 1841.1570581896553,
+                    "y": 989.5324675324675
+                },
+                {
+                    "x": 2778.6570581896553,
+                    "y": 989.5324675324675
+                },
+                {
+                    "x": 2778.6570581896553,
+                    "y": 1866.961038961039
+                },
+                {
+                    "x": 1841.1570581896553,
+                    "y": 1866.961038961039
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

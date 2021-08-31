@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2bc18a386fffaf832df782fa1185ec07",
+        "name": "Minnesota%20deer%20season%202020_%20What%20you....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Minnesota%20deer%20season%202020_%20What%20you....jpg",
+        "size": {
+            "width": 1140,
+            "height": 712
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "B6uyF8Jyg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 265.6247240618102,
+                "width": 285.9820813232254,
+                "left": 236.48518263266712,
+                "top": 21.316777041942604
+            },
+            "points": [
+                {
+                    "x": 236.48518263266712,
+                    "y": 21.316777041942604
+                },
+                {
+                    "x": 522.4672639558925,
+                    "y": 21.316777041942604
+                },
+                {
+                    "x": 522.4672639558925,
+                    "y": 286.9415011037528
+                },
+                {
+                    "x": 236.48518263266712,
+                    "y": 286.9415011037528
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

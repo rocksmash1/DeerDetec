@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a863b07f6b474090fc10750d948e9e49",
+        "name": "Deer%20Management_%20Why%20Minerals%20and%20Water....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Management_%20Why%20Minerals%20and%20Water....jpg",
+        "size": {
+            "width": 725,
+            "height": 406
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6AhoSVeR-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 334.5879458794588,
+                "width": 420.70985527222604,
+                "left": 62.9565816678153,
+                "top": 34.59801660516605
+            },
+            "points": [
+                {
+                    "x": 62.9565816678153,
+                    "y": 34.59801660516605
+                },
+                {
+                    "x": 483.66643694004136,
+                    "y": 34.59801660516605
+                },
+                {
+                    "x": 483.66643694004136,
+                    "y": 369.18596248462484
+                },
+                {
+                    "x": 62.9565816678153,
+                    "y": 369.18596248462484
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

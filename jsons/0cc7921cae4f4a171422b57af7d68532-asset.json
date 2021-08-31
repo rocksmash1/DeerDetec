@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0cc7921cae4f4a171422b57af7d68532",
+        "name": "Hunting%20female%20deer%20a%20better%20population....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Hunting%20female%20deer%20a%20better%20population....jpg",
+        "size": {
+            "width": 750,
+            "height": 643
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8pDKI1OHC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 473.20346320346323,
+                "width": 551.0204081632653,
+                "left": 93.49997101113173,
+                "top": 61.23809523809524
+            },
+            "points": [
+                {
+                    "x": 93.49997101113173,
+                    "y": 61.23809523809524
+                },
+                {
+                    "x": 644.520379174397,
+                    "y": 61.23809523809524
+                },
+                {
+                    "x": 644.520379174397,
+                    "y": 534.4415584415584
+                },
+                {
+                    "x": 93.49997101113173,
+                    "y": 534.4415584415584
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

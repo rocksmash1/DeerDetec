@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "324e050da14104c5336fa42fa38d04e6",
+        "name": "Buck%20for%20PS%20News.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Buck%20for%20PS%20News.jpg",
+        "size": {
+            "width": 700,
+            "height": 647
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KZmyLbPGv",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 263.9816017316017,
+                "width": 284.2,
+                "left": 63.951562499999994,
+                "top": 26.608225108225106
+            },
+            "points": [
+                {
+                    "x": 63.951562499999994,
+                    "y": 26.608225108225106
+                },
+                {
+                    "x": 348.15156249999995,
+                    "y": 26.608225108225106
+                },
+                {
+                    "x": 348.15156249999995,
+                    "y": 290.5898268398268
+                },
+                {
+                    "x": 63.951562499999994,
+                    "y": 290.5898268398268
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

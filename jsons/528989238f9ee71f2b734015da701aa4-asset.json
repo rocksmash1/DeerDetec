@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "528989238f9ee71f2b734015da701aa4",
+        "name": "Canon%20City%20Daily%20Record.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Canon%20City%20Daily%20Record.jpg",
+        "size": {
+            "width": 2048,
+            "height": 1760
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hEiYa3bKm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 742.8571428571428,
+                "width": 758.2362790697676,
+                "left": 882.2772093023258,
+                "top": 175.23809523809524
+            },
+            "points": [
+                {
+                    "x": 882.2772093023258,
+                    "y": 175.23809523809524
+                },
+                {
+                    "x": 1640.5134883720932,
+                    "y": 175.23809523809524
+                },
+                {
+                    "x": 1640.5134883720932,
+                    "y": 918.0952380952381
+                },
+                {
+                    "x": 882.2772093023258,
+                    "y": 918.0952380952381
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

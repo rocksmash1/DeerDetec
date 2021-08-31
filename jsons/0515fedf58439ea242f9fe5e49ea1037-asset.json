@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0515fedf58439ea242f9fe5e49ea1037",
+        "name": "white%20deer%20at%20Kensington%20Metropark....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/white%20deer%20at%20Kensington%20Metropark....jpg",
+        "size": {
+            "width": 1609,
+            "height": 905
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Yv6lY6Bx-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 471.5447878370099,
+                "width": 196.2736044107512,
+                "left": 1109.999310820124,
+                "top": 18.940812653186306
+            },
+            "points": [
+                {
+                    "x": 1109.999310820124,
+                    "y": 18.940812653186306
+                },
+                {
+                    "x": 1306.2729152308752,
+                    "y": 18.940812653186306
+                },
+                {
+                    "x": 1306.2729152308752,
+                    "y": 490.48560049019625
+                },
+                {
+                    "x": 1109.999310820124,
+                    "y": 490.48560049019625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

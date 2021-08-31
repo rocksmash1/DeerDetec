@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "951ff0102991ab5a1a6f0794a4307a44",
+        "name": "Axis%20Deer%20%E2%80%93%20Fossil%20Rim%20Wildlife%20Center%20(1).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Axis%20Deer%20%E2%80%93%20Fossil%20Rim%20Wildlife%20Center%20(1).jpg",
+        "size": {
+            "width": 1296,
+            "height": 1203
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ayF4vCQ43",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 825.4350649350649,
+                "width": 896.1286432160804,
+                "left": 178.7291457286432,
+                "top": 187.4805194805195
+            },
+            "points": [
+                {
+                    "x": 178.7291457286432,
+                    "y": 187.4805194805195
+                },
+                {
+                    "x": 1074.8577889447236,
+                    "y": 187.4805194805195
+                },
+                {
+                    "x": 1074.8577889447236,
+                    "y": 1012.9155844155845
+                },
+                {
+                    "x": 178.7291457286432,
+                    "y": 1012.9155844155845
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

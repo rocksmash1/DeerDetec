@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d6058934684f14c6acf7eef3aff374d1",
+        "name": "One%20in%20a%20million_%20three-antler%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/One%20in%20a%20million_%20three-antler%20deer....jpg",
+        "size": {
+            "width": 976,
+            "height": 650
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3lDo_nuig",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 398.8636363636364,
+                "width": 331.4318673395818,
+                "left": 397.7314347512617,
+                "top": 90.04329004329004
+            },
+            "points": [
+                {
+                    "x": 397.7314347512617,
+                    "y": 90.04329004329004
+                },
+                {
+                    "x": 729.1633020908436,
+                    "y": 90.04329004329004
+                },
+                {
+                    "x": 729.1633020908436,
+                    "y": 488.9069264069264
+                },
+                {
+                    "x": 397.7314347512617,
+                    "y": 488.9069264069264
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

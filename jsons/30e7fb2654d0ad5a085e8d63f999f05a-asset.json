@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "30e7fb2654d0ad5a085e8d63f999f05a",
+        "name": "Zombie%20Deer%20with%20Unbelievable%20Wound...%20(1).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Zombie%20Deer%20with%20Unbelievable%20Wound...%20(1).jpg",
+        "size": {
+            "width": 1200,
+            "height": 630
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RI99PH9ws",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 431.5748031496063,
+                "width": 380.42729152308755,
+                "left": 145.55478980013783,
+                "top": 177.6654773622047
+            },
+            "points": [
+                {
+                    "x": 145.55478980013783,
+                    "y": 177.6654773622047
+                },
+                {
+                    "x": 525.9820813232254,
+                    "y": 177.6654773622047
+                },
+                {
+                    "x": 525.9820813232254,
+                    "y": 609.240280511811
+                },
+                {
+                    "x": 145.55478980013783,
+                    "y": 609.240280511811
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

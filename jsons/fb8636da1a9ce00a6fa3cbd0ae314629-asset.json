@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb8636da1a9ce00a6fa3cbd0ae314629",
+        "name": "White-tailed%20Deer%20-%20Odocoileus....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-tailed%20Deer%20-%20Odocoileus....jpg",
+        "size": {
+            "width": 1000,
+            "height": 667
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "C15mn3bDa",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 303.90367965367966,
+                "width": 289.53068592057764,
+                "left": 229.71570397111915,
+                "top": 41.146103896103895
+            },
+            "points": [
+                {
+                    "x": 229.71570397111915,
+                    "y": 41.146103896103895
+                },
+                {
+                    "x": 519.2463898916968,
+                    "y": 41.146103896103895
+                },
+                {
+                    "x": 519.2463898916968,
+                    "y": 345.04978354978357
+                },
+                {
+                    "x": 229.71570397111915,
+                    "y": 345.04978354978357
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

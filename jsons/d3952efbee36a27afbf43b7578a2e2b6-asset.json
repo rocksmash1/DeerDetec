@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d3952efbee36a27afbf43b7578a2e2b6",
+        "name": "Free%20Deer%20in%20wild%20Stock%20Photo....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Free%20Deer%20in%20wild%20Stock%20Photo....jpg",
+        "size": {
+            "width": 1599,
+            "height": 1066
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TjLPgTO9Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 692.2077922077922,
+                "width": 912.560606060606,
+                "left": 563.5725108225108,
+                "top": 13.844155844155843
+            },
+            "points": [
+                {
+                    "x": 563.5725108225108,
+                    "y": 13.844155844155843
+                },
+                {
+                    "x": 1476.1331168831168,
+                    "y": 13.844155844155843
+                },
+                {
+                    "x": 1476.1331168831168,
+                    "y": 706.051948051948
+                },
+                {
+                    "x": 563.5725108225108,
+                    "y": 706.051948051948
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

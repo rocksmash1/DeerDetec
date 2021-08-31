@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d0205160a67b030828eadf9eb7d88b30",
+        "name": "Deer%20Facts%20For%20Kids%20_%20What%20Is%20A%20Deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Deer%20Facts%20For%20Kids%20_%20What%20Is%20A%20Deer....jpg",
+        "size": {
+            "width": 1200,
+            "height": 630
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WeTAZbOze",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 262.9133858267717,
+                "width": 264.645072363887,
+                "left": 320.88215024121297,
+                "top": 9.004060039370078
+            },
+            "points": [
+                {
+                    "x": 320.88215024121297,
+                    "y": 9.004060039370078
+                },
+                {
+                    "x": 585.5272226051,
+                    "y": 9.004060039370078
+                },
+                {
+                    "x": 585.5272226051,
+                    "y": 271.91744586614175
+                },
+                {
+                    "x": 320.88215024121297,
+                    "y": 271.91744586614175
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

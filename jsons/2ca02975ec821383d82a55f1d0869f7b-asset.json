@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2ca02975ec821383d82a55f1d0869f7b",
+        "name": "He_s%20the%20deer%20of%20the%20year__%20Carrot%20on...%20(1).jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/He_s%20the%20deer%20of%20the%20year__%20Carrot%20on...%20(1).jpg",
+        "size": {
+            "width": 1136,
+            "height": 1136
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I1QT0f5I2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 531.1168831168831,
+                "width": 542.1818181818181,
+                "left": 314.12121212121207,
+                "top": 458.5800865800865
+            },
+            "points": [
+                {
+                    "x": 314.12121212121207,
+                    "y": 458.5800865800865
+                },
+                {
+                    "x": 856.3030303030303,
+                    "y": 458.5800865800865
+                },
+                {
+                    "x": 856.3030303030303,
+                    "y": 989.6969696969696
+                },
+                {
+                    "x": 314.12121212121207,
+                    "y": 989.6969696969696
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

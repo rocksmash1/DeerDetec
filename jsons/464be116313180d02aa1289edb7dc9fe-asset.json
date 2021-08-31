@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "464be116313180d02aa1289edb7dc9fe",
+        "name": "Shining%20a%20light%20on%20spotlighting%20deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Shining%20a%20light%20on%20spotlighting%20deer....jpg",
+        "size": {
+            "width": 1396,
+            "height": 1047
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XhQwEtrkk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 513.3019480519481,
+                "width": 653.8084415584416,
+                "left": 244.18668831168833,
+                "top": 399.9902597402598
+            },
+            "points": [
+                {
+                    "x": 244.18668831168833,
+                    "y": 399.9902597402598
+                },
+                {
+                    "x": 897.99512987013,
+                    "y": 399.9902597402598
+                },
+                {
+                    "x": 897.99512987013,
+                    "y": 913.2922077922078
+                },
+                {
+                    "x": 244.18668831168833,
+                    "y": 913.2922077922078
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

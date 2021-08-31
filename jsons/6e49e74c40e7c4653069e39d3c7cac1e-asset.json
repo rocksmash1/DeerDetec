@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6e49e74c40e7c4653069e39d3c7cac1e",
+        "name": "Columbian%20White-tailed%20Deer....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Columbian%20White-tailed%20Deer....jpg",
+        "size": {
+            "width": 390,
+            "height": 259
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JqddFyOWk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 59.42424242424242,
+                "width": 76.82242990654206,
+                "left": 187.34228971962617,
+                "top": 34.196969696969695
+            },
+            "points": [
+                {
+                    "x": 187.34228971962617,
+                    "y": 34.196969696969695
+                },
+                {
+                    "x": 264.1647196261682,
+                    "y": 34.196969696969695
+                },
+                {
+                    "x": 264.1647196261682,
+                    "y": 93.62121212121211
+                },
+                {
+                    "x": 187.34228971962617,
+                    "y": 93.62121212121211
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

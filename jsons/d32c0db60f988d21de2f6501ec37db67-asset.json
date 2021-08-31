@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d32c0db60f988d21de2f6501ec37db67",
+        "name": "deer%20farmers%20to%20stop%20moving%20deer%20around.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/deer%20farmers%20to%20stop%20moving%20deer%20around.jpg",
+        "size": {
+            "width": 1955,
+            "height": 1547
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "X07RMxR71",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 1007.8939393939395,
+                "width": 1245.3082191780823,
+                "left": 199.78388538099315,
+                "top": 93.75757575757576
+            },
+            "points": [
+                {
+                    "x": 199.78388538099315,
+                    "y": 93.75757575757576
+                },
+                {
+                    "x": 1445.0921045590753,
+                    "y": 93.75757575757576
+                },
+                {
+                    "x": 1445.0921045590753,
+                    "y": 1101.6515151515152
+                },
+                {
+                    "x": 199.78388538099315,
+                    "y": 1101.6515151515152
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

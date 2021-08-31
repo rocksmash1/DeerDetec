@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7870774b23018d39a5d41f664cb5c9be",
+        "name": "Identifying%20White-Tailed%20Deer.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Identifying%20White-Tailed%20Deer.jpg",
+        "size": {
+            "width": 557,
+            "height": 740
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SOh9sE9JP",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 473.3116883116883,
+                "width": 484.87050359712225,
+                "left": 43.47805755395683,
+                "top": 92.9004329004329
+            },
+            "points": [
+                {
+                    "x": 43.47805755395683,
+                    "y": 92.9004329004329
+                },
+                {
+                    "x": 528.3485611510791,
+                    "y": 92.9004329004329
+                },
+                {
+                    "x": 528.3485611510791,
+                    "y": 566.2121212121212
+                },
+                {
+                    "x": 43.47805755395683,
+                    "y": 566.2121212121212
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "21ab38b74e416a388e72d82a875ea628",
+        "name": "deer%20-%20Wiktionary.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/deer%20-%20Wiktionary.jpg",
+        "size": {
+            "width": 1200,
+            "height": 857
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HAEAwYEfu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 281.95670995671,
+                "width": 295.8268933539413,
+                "left": 224.81163060278206,
+                "top": 139.12337662337663
+            },
+            "points": [
+                {
+                    "x": 224.81163060278206,
+                    "y": 139.12337662337663
+                },
+                {
+                    "x": 520.6385239567234,
+                    "y": 139.12337662337663
+                },
+                {
+                    "x": 520.6385239567234,
+                    "y": 421.0800865800866
+                },
+                {
+                    "x": 224.81163060278206,
+                    "y": 421.0800865800866
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

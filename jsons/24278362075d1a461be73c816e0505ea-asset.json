@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24278362075d1a461be73c816e0505ea",
+        "name": "Carrot%20the%20deer%20found%20in%20Ontario%20with....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Carrot%20the%20deer%20found%20in%20Ontario%20with....jpg",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mYIInJCXN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 487.012987012987,
+                "width": 446.75324675324674,
+                "left": 448.7012987012987,
+                "top": 484.4155844155844
+            },
+            "points": [
+                {
+                    "x": 448.7012987012987,
+                    "y": 484.4155844155844
+                },
+                {
+                    "x": 895.4545454545455,
+                    "y": 484.4155844155844
+                },
+                {
+                    "x": 895.4545454545455,
+                    "y": 971.4285714285714
+                },
+                {
+                    "x": 448.7012987012987,
+                    "y": 971.4285714285714
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

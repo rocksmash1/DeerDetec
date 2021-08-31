@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "60a6c9aaf0e7a7fe29d23e41059ce8df",
+        "name": "Fallow%20deer%20_%20The%20Wildlife%20Trusts.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Fallow%20deer%20_%20The%20Wildlife%20Trusts.jpg",
+        "size": {
+            "width": 480,
+            "height": 355
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4_GnDvEZD",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 227.06168831168833,
+                "width": 339.65572457966374,
+                "left": 97.30184147317854,
+                "top": 80.6818181818182
+            },
+            "points": [
+                {
+                    "x": 97.30184147317854,
+                    "y": 80.6818181818182
+                },
+                {
+                    "x": 436.95756605284225,
+                    "y": 80.6818181818182
+                },
+                {
+                    "x": 436.95756605284225,
+                    "y": 307.7435064935065
+                },
+                {
+                    "x": 97.30184147317854,
+                    "y": 307.7435064935065
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

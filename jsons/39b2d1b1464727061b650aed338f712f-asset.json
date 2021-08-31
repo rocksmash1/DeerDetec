@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "39b2d1b1464727061b650aed338f712f",
+        "name": "Dublin_%20Ohio_%20USA%20%C2%BB%20Deer.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Dublin_%20Ohio_%20USA%20%C2%BB%20Deer.jpg",
+        "size": {
+            "width": 640,
+            "height": 446
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yjKS-TlAx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 161.6991341991342,
+                "width": 139.96983408748116,
+                "left": 299.47209653092006,
+                "top": 20.272727272727273
+            },
+            "points": [
+                {
+                    "x": 299.47209653092006,
+                    "y": 20.272727272727273
+                },
+                {
+                    "x": 439.4419306184012,
+                    "y": 20.272727272727273
+                },
+                {
+                    "x": 439.4419306184012,
+                    "y": 181.97186147186147
+                },
+                {
+                    "x": 299.47209653092006,
+                    "y": 181.97186147186147
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

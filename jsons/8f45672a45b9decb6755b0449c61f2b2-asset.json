@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8f45672a45b9decb6755b0449c61f2b2",
+        "name": "White%20Deer%20Tours%20(Seneca%20Army%20Depot....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White%20Deer%20Tours%20(Seneca%20Army%20Depot....jpg",
+        "size": {
+            "width": 1080,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WyPRr7Z-c",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 734.0259740259737,
+                "width": 357.077922077922,
+                "left": 37.98701298701299,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 37.98701298701299,
+                    "y": 0
+                },
+                {
+                    "x": 395.06493506493496,
+                    "y": 0
+                },
+                {
+                    "x": 395.06493506493496,
+                    "y": 734.0259740259738
+                },
+                {
+                    "x": 37.98701298701299,
+                    "y": 734.0259740259738
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "80ec50d3c4a9cddb2fefe52eae7bda46",
+        "name": "white-tailed%20deer%20season%20in%20Texas.jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/white-tailed%20deer%20season%20in%20Texas.jpg",
+        "size": {
+            "width": 2256,
+            "height": 1470
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cr_5Ai2jZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 303.8636363636364,
+                "width": 442.2905500705219,
+                "left": 511.5476022566996,
+                "top": 295.9090909090909
+            },
+            "points": [
+                {
+                    "x": 511.5476022566996,
+                    "y": 295.9090909090909
+                },
+                {
+                    "x": 953.8381523272215,
+                    "y": 295.9090909090909
+                },
+                {
+                    "x": 953.8381523272215,
+                    "y": 599.7727272727273
+                },
+                {
+                    "x": 511.5476022566996,
+                    "y": 599.7727272727273
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

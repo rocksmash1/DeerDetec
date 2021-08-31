@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e4446e4a37a577af3104299cbf46d349",
+        "name": "Endangered%20Key%20Deer%20Fawns%20Vulnerable%20to....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Endangered%20Key%20Deer%20Fawns%20Vulnerable%20to....jpg",
+        "size": {
+            "width": 1500,
+            "height": 843
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JBWqE2Vb0",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 723.2894746932516,
+                "width": 820.8132322536184,
+                "left": 588.2150241212956,
+                "top": 25.584144938650336
+            },
+            "points": [
+                {
+                    "x": 588.2150241212956,
+                    "y": 25.584144938650336
+                },
+                {
+                    "x": 1409.0282563749138,
+                    "y": 25.584144938650336
+                },
+                {
+                    "x": 1409.0282563749138,
+                    "y": 748.8736196319019
+                },
+                {
+                    "x": 588.2150241212956,
+                    "y": 748.8736196319019
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

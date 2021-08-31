@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "cd4bddb30730fdc228ece362ab85f7c1",
+        "name": "8%20Points%20About%20Deer%20Antlers%20%E2%80%93%20Georgia....png",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/8%20Points%20About%20Deer%20Antlers%20%E2%80%93%20Georgia....png",
+        "size": {
+            "width": 940,
+            "height": 528
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GSAAiKeYS",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 407.4993865030675,
+                "width": 399.710544452102,
+                "left": 356.9538249483115,
+                "top": 32.07883435582822
+            },
+            "points": [
+                {
+                    "x": 356.9538249483115,
+                    "y": 32.07883435582822
+                },
+                {
+                    "x": 756.6643694004134,
+                    "y": 32.07883435582822
+                },
+                {
+                    "x": 756.6643694004134,
+                    "y": 439.57822085889575
+                },
+                {
+                    "x": 356.9538249483115,
+                    "y": 439.57822085889575
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

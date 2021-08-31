@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "709470841c2b224b20372725a2541519",
+        "name": "Large%20Texas%20deer%20population%20for%202020%20season.jpeg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Large%20Texas%20deer%20population%20for%202020%20season.jpeg",
+        "size": {
+            "width": 1000,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_RijATeos",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 593.9393939393939,
+                "width": 612.987012987013,
+                "left": 257.14285714285717,
+                "top": 6.926406926406926
+            },
+            "points": [
+                {
+                    "x": 257.14285714285717,
+                    "y": 6.926406926406926
+                },
+                {
+                    "x": 870.1298701298701,
+                    "y": 6.926406926406926
+                },
+                {
+                    "x": 870.1298701298701,
+                    "y": 600.8658008658009
+                },
+                {
+                    "x": 257.14285714285717,
+                    "y": 600.8658008658009
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

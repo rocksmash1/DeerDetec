@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b9324e68b3cda803f9ef4373e9918927",
+        "name": "Rare%20West%20Virginia%20deer%20harvest%20sparks....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/Rare%20West%20Virginia%20deer%20harvest%20sparks....jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kWvNHPcgx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 378.52941176470586,
+                "width": 379.7656788421778,
+                "left": 928.9042039972434,
+                "top": 157.62408088235293
+            },
+            "points": [
+                {
+                    "x": 928.9042039972434,
+                    "y": 157.62408088235293
+                },
+                {
+                    "x": 1308.6698828394212,
+                    "y": 157.62408088235293
+                },
+                {
+                    "x": 1308.6698828394212,
+                    "y": 536.1534926470588
+                },
+                {
+                    "x": 928.9042039972434,
+                    "y": 536.1534926470588
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f3001c5b0805c3b3e5361a59b4af6807",
+        "name": "White-tailed%20Deer%20Fawns%20_%20Spring%20Season....jpg",
+        "path": "file:C:/Users/rakoc/Downloads/deerdata/White-tailed%20Deer%20Fawns%20_%20Spring%20Season....jpg",
+        "size": {
+            "width": 1030,
+            "height": 423
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A9qxOOAHi",
+            "type": "RECTANGLE",
+            "tags": [
+                "Deer"
+            ],
+            "boundingBox": {
+                "height": 345.6392617449664,
+                "width": 560.7856650585803,
+                "left": 153.32873880082704,
+                "top": 56.03552328020134
+            },
+            "points": [
+                {
+                    "x": 153.32873880082704,
+                    "y": 56.03552328020134
+                },
+                {
+                    "x": 714.1144038594074,
+                    "y": 56.03552328020134
+                },
+                {
+                    "x": 714.1144038594074,
+                    "y": 401.67478502516775
+                },
+                {
+                    "x": 153.32873880082704,
+                    "y": 401.67478502516775
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
